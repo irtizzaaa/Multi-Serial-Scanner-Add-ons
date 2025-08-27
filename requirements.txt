@@ -1,3 +1,0 @@
-pyserial-asyncio>=0.6
-paho-mqtt>=1.6.1
-
